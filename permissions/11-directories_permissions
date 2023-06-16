@@ -1,2 +1,2 @@
 #!/bin/bash
-finde . -type d -exec chmod 755 {} +.
+finde . -type d -exec chmod a+x {} +.
