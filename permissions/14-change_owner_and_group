@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --recursive vicent:staff ./*
+find .exec chown vicent:staff {} +
