@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '3q;d' iacta
+tail -n+3 iacta
