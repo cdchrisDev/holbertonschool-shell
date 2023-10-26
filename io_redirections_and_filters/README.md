@@ -17,4 +17,6 @@ This is the holberton shell repository
 ## Write a script that displays the third line of the file iacta. Without sed
 6. > perl -ne 'print if $. == 3 ' < iacta
 ## Writing the exact string using scapes characters
-7. > 
+7. > echo "Best School" >> "\\*\\\'\"Best School\"\\'\\\*$\?\*\*\*\*\*:)"
+## Create a file with content ls -la, if exist rewrite
+8. > ls -la >> "ls_cwd_content" 
