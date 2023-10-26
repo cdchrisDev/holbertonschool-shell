@@ -19,4 +19,6 @@ This is the holberton shell repository
 ## Writing the exact string using scapes characters
 7. > echo "Best School" >> "\\*\\\'\"Best School\"\\'\\\*$\?\*\*\*\*\*:)"
 ## Create a file with content ls -la, if exist rewrite
-8. > ls -la >> "ls_cwd_content" 
+8. > ls -la >> "ls_cwd_content"
+## Duplicate the last line of the file
+9. > tail -n 1 iacta >> iacta
