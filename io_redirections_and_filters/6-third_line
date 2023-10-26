@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne 'print if $. % 3 ' < iacta
+perl -ne 'print if $ == 3 ' < iacta
