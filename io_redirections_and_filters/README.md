@@ -1,4 +1,4 @@
- This is the holberton shell repository 
+This is the holberton shell repository 
 
 **INPUT AND OUTPUT**
 
@@ -15,5 +15,6 @@
 ## Display the first 10 lines
 5. > head -10 /etc/passwd
 ## Write a script that displays the third line of the file iacta. Without sed
-6. > grep -n '3' iacta
-## 
+6. > perl -ne 'print if $. == 3 ' < iacta
+## Writing the exact string using scapes characters
+7. > 
