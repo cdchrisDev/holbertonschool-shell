@@ -28,3 +28,5 @@
 11. > find . -type d -not -name "." | wc -l
 ## Create a script that displays the 10 newest to oldest files in the current directory one per line.
 12. > ls -t -1 | head -10
+## Take a list of words as input and prints their unique ones one word per line and words are sorted
+13. > sort | uniq -u  
