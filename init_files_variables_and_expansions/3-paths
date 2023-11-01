@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH = shell_exec('ls -l | grep -c ^d');
+echo $PATH | wc -l
