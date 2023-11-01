@@ -1,0 +1,2 @@
+#!/bin/bash
+ls $PATH -l | grep -c ^d
