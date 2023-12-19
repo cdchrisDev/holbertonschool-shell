@@ -3,7 +3,7 @@
 * [permissions](https://linuxcommand.org/lc3_lts0090.php)
 
 # Permissions
-## 1. create a script that switches the current user to the user ´betty´
+## 1. create a script that switches the current user to the user `betty`
 * You should use exactly 8 characters for your command (+1 character for the new line)
 * You can assume that the user betty will exist when we will run your script
 
