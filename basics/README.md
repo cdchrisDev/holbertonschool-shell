@@ -1,6 +1,22 @@
-# This is the holberton shell repository 
+# Shell - Basics
+## Learning Objectives
+### General
+* What does RTFM mean?
+	* Read The F manual
+* What is a Shebang
+	* Character sequence at the beggining of a script
+### What is the Shell
+* What is the shell
+	* The shell is a way to comunicate to the computer using commands
+* What is the difference between a terminal and a shell
+	* Terminal applications are typically text-based and do not have graphical user interfaces.
+* What is a shell prompt
+	* A command prompt is the input field in a text-based user interface screen for an operating system (OS) or program.
+* How to use the history
+	* history
 
-**Basics:**   
+# Basics:
+
 ## to see display the current directory   
 0. > pwd     
 ## To change to `/home`   
