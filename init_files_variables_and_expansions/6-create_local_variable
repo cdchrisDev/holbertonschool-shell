@@ -1,2 +1,2 @@
 #!/bin/bash
-local { Name=Best Value=School }
+BEST="School"
